@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ddtechboy_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=ddtechboy_mslearn-tailspin-spacegame-web)
+
 
 # Contributing
 
